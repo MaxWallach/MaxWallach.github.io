@@ -610,7 +610,7 @@ h1, h2, h3, h4, h5,
     position: absolute;
     height: 100%;
     width: 70%;
-    background: #007bff;
+    background: #000000;
     border-bottom-right-radius: 0px; }
     @media (max-width: 991.98px) {
       .intro-section:before {
